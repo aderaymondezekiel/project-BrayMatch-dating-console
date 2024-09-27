@@ -1,0 +1,1 @@
+BrayMatch is a Dating console where administrators can set user profiles and connect people with interests. The goal is to create a system that makes it easy to manage users and match them effectively and efficiently.
